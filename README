@@ -1,0 +1,1 @@
+This is a bunch of random crap that I wrote to run as cron jobs for converting TV Shows downloaded with Sickbeard into AppleTV friendly format and importing them into iTunes via a series of cronjobs.  There are also some scripts for cleaning up the junk after I watch the shows so I don't hoard data I don't really need.
